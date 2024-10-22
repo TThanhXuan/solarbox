@@ -101,8 +101,10 @@ Sau khi datalogger khởi động lại (chỉ mất vài giây và không ảnh
 1. Ngắt kết nối app BMS trên điện thoại thông minh, tăt bluetooth của điện thoại
 
 Do module se sử dụng bluetooth để kết nối đến BMS của pin, nên cần ngắt kết nối với điện thoại
+
 2. Xác định đia chỉ MAC của module BMS JK
-- Vào địa chỉ http://<solarbox IP>:6052
+
+- Vào địa chỉ ``http://<solarbox IP>:6052``
 
 - Chọn logs:
 
@@ -113,6 +115,7 @@ Do module se sử dụng bluetooth để kết nối đến BMS của pin, nên 
 ![](pic/mac_bms.png)
 
 3. Nạp lại chương trình cho module thay đổi pin với địa chỉ MAC của bạn
+
 - Chọn edit bên phần nạp chương trình
 
 ![](pic/edit_programing.png)
