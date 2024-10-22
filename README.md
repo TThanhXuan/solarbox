@@ -96,7 +96,34 @@ Sau khi datalogger khởi động lại (chỉ mất vài giây và không ảnh
 
 [Video [SolarBox] Kết nối với biến tần](https://www.youtube.com/watch?v=g12Ak6pNzmc)
 ## 3. Thiết lập kết nối đến pin Lithium
-Đang cập nhật ...
+
+### a. Kết nối pin Lithium thông qua module esp
+1. Ngắt kết nối app BMS trên điện thoại thông minh, tăt bluetooth của điện thoại
+
+Do module se sử dụng bluetooth để kết nối đến BMS của pin, nên cần ngắt kết nối với điện thoại
+2. Xác định đia chỉ MAC của module BMS JK
+- Vào địa chỉ http://<solarbox IP>:6052
+
+- Chọn logs:
+
+![](pic/bms_findmac.png)
+
+- Xác định được địa chỉ MAC của BMS:
+
+![](pic/mac_bms.png)
+
+3. Nạp lại chương trình cho module thay đổi pin với địa chỉ MAC của bạn
+- Chọn edit bên phần nạp chương trình
+
+![](pic/edit_programing.png)
+
+- Thay đổi địa chỉ mac ở dòng số 5
+
+![](pic/mac_edit.png)
+
+- Chọn install và chờ khoảng 10p để nạp lại chương trình
+
+![](pic/bms_install.png)
 
 # Bonus: Hướng dẫn tạo 1 SolarBox cho riêng bạn
 Đang cập nhật .... 
