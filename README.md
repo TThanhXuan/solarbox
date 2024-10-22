@@ -100,9 +100,7 @@ Sau khi datalogger khởi động lại (chỉ mất vài giây và không ảnh
 ### a. Kết nối pin Lithium thông qua module esp
 1. Cấp nguồn cho module thay đổi pin bằng cốc sạc điện thoại và đặt module gần pin (khoảng 20cm)
 
-2. Ngắt kết nối app BMS trên điện thoại thông minh, tăt bluetooth của điện thoại
-
-- Do module se sử dụng bluetooth để kết nối đến BMS của pin, nên cần ngắt kết nối với điện thoại
+2. Ngắt kết nối app BMS trên điện thoại thông minh, tạm thời tắt bluetooth của điện thoại
 
 3. Xác định đia chỉ MAC của module BMS JK
 
@@ -116,7 +114,7 @@ Sau khi datalogger khởi động lại (chỉ mất vài giây và không ảnh
 
 ![](pic/mac_bms.png)
 
-4. Nạp lại chương trình cho module thay đổi pin với địa chỉ MAC của bạn
+4. Nạp lại chương trình cho module theo dõi pin với địa chỉ MAC của bạn
 
 - Chọn edit bên phần nạp chương trình
 
