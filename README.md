@@ -61,7 +61,9 @@ Với Solarbox có thể dùng để theo dõi chỉ số địen từ EVN serve
 - Cài đặt hassio như hướng dẫn [tại đây](https://www.youtube.com/watch?v=bb8F20rgEJ4)
 
 2. Cài đặt addon lux
-đang cập nhật ....
+
+- sử dụng lxp-bridge [tại đây](https://github.com/celsworth/lxp-bridge)
+- Đang cập nhật hướng dẫn tiếng việt ...
 
 3. Nhóm hỗ trợ
 https://web.facebook.com/groups/535518005787356
