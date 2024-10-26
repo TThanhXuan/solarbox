@@ -49,7 +49,7 @@ Với Solarbox có thể dùng để theo dõi chỉ số địen từ EVN serve
 - **Do kết nối bluetooth của JK BMS rất ngắn nên SolarBox cần được đặt gần Pin Lithium (khoảng 20cm)**
 
 Đang cập nhật hình ảnh .... 
-
+<!--
 # III. Thông tin cần thiết để có thể cài đặt SolarBox 
 ## 1. Để giao tiếp với biến tần
 - Địa chỉ IP của nội bộ của biến tần (có thể hỗ trợ từ xa)
@@ -127,6 +127,8 @@ Sau khi datalogger khởi động lại (chỉ mất vài giây và không ảnh
 - Chọn install và chờ khoảng 10p để nạp lại chương trình
 
 ![](pic/bms_install.png)
-
+-->
 # Bonus: Hướng dẫn tạo 1 SolarBox cho riêng bạn
+
+1. Cài đặt hassio
 Đang cập nhật .... 
