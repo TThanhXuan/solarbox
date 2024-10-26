@@ -11,7 +11,10 @@ password: demo
 
 ## 2. SolarBox dùng để theo dõi biến tần
 Với SolarBox bạn có thể theo dõi song song nhiều biến tần của nhiều hãng khác nhau trên cùng một ứng dụng không phụ thuộc vào server của hãng, thời gian cập nhật nhanh.
-![Inverter Monitor 1](pic/InverterMonitor1.jpg) ![Inverter Monitor 2](pic/InverterMonitor2.jpg)
+<p float="left">
+  <img src="pic/InverterMonitor1.jpg" width="45%" />
+  <img src="pic/InverterMonitor2.jpg" width="45%" />
+</p>
 
 ## 3. SolarBox dùng để theo dõi Pin không giao tiếp
 Với SolarBox bạn có thể theo dõi song song nhiều Pin lithium của nhiều hãng khác nhau trên cùng một ứng dụng.
@@ -49,86 +52,13 @@ Với Solarbox có thể dùng để theo dõi chỉ số địen từ EVN serve
 - **Do kết nối bluetooth của JK BMS rất ngắn nên SolarBox cần được đặt gần Pin Lithium (khoảng 20cm)**
 
 Đang cập nhật hình ảnh .... 
-<!--
-# III. Thông tin cần thiết để có thể cài đặt SolarBox 
-## 1. Để giao tiếp với biến tần
-- Địa chỉ IP của nội bộ của biến tần (có thể hỗ trợ từ xa)
-- Thông tin đăng nhập của module wifi của biến tần (mặc định admin/admin)(có thể hỗ trợ kiểm tra)
-- Số S/N của module wifi của biến tần (có thể xem tem dán trên module wifi hoặc app lux)
-![Module wifi](pic/luxDongle.jpeg)
-- Số seri biến tần của bạn (có thể kiểm tra trên app lux)
-## 2. Để giao tiếp với Pin Lithium
-- Tên và mật khẩu wifi của bạn nếu sử dụng mô hình #1
-- Địa chỉ mac của BMS JK (có thể hỗ trợ từ xa)
-
-# IV. Hướng dẫn cài đặt và sử dụng
-## 1. Đăng nhập homeassitant
-[[SolarBox] Đăng nhập homeassistant](https://www.youtube.com/watch?v=Zfy2XWQpMYM)
-## 2. Thiết lập kết nối đến biến tần
-### a. Thiết lập biến tần
-
-Để tránh các vấn đề phát sinh, bạn nên đảm bảo rằng Biến tần của bạn có địa chỉ IP tĩnh hoặc được đặt DHCP Reservation từ router của bạn. Điều này sẽ đảm bảo rằng địa chỉ IP của nó sẽ không thay đổi khi khởi động lại.
-
-Chúng ta cần cấu hình nó để mở một cổng khác mà chúng ta có thể giao tiếp. Mở trình duyệt web đến IP của datalogger của bạn (có thể phải kiểm tra máy chủ DHCP để tìm nó) và đăng nhập với tên người dùng/mật khẩu admin/admin. Nhấp vào English ở góc trên bên phải :)
-
-Bạn sẽ thấy:
-
-![](pic/lux_run_state.png)
-Nhấp vào Network Setting trong menu. Bạn sẽ thấy hai biểu mẫu, biểu mẫu trên cùng được điền với IP của LuxPower ở Trung Quốc - biểu mẫu thứ hai chúng ta có thể sử dụng. Cấu hình nó để trông giống như bên dưới và lưu lại:
-
-![](pic/lux_network_setting.png)
-
-Sau khi datalogger khởi động lại (chỉ mất vài giây và không ảnh hưởng đến hoạt động chính của biến tần, nó sẽ tiếp tục hoạt động bình thường), cổng 8000 trên IP của biến tần của bạn sẽ có thể truy cập được từ SolarBox. 
-
-### b. Thiết lập kết nối
-1. Settings > Devices and Services > Add Integration trong Home Assistant.
-2. Search for "LuxPower Inverter".
-
-![Integration Setup](https://user-images.githubusercontent.com/64648444/169526481-d261df8b-ecaa-48c4-a6df-f7abae382316.png)
-
-3. Điền IP, Cổng (8000), số serial của dongle và số serial của biến tần (có sẵn trên trang web Lux tại server.luxpowertek.com).
-
-![Integration Details](https://user-images.githubusercontent.com/64648444/169526428-a508e905-19ef-45e5-ab2c-185b454489e3.png)
-
-4. Sau khi thêm tích hợp, bạn sẽ thấy một số cảm biến trong Home Assistant.
-
-![HA Sensors](https://user-images.githubusercontent.com/64648444/169526605-0f667815-87dc-4ab7-86f5-dbffe85ff765.png)
-
-[Video [SolarBox] Kết nối với biến tần](https://www.youtube.com/watch?v=g12Ak6pNzmc)
-## 3. Thiết lập kết nối đến pin Lithium
-
-### a. Kết nối pin Lithium thông qua module esp
-1. Cấp nguồn cho module thay đổi pin bằng cốc sạc điện thoại và đặt module gần pin (khoảng 20cm)
-
-2. Ngắt kết nối app BMS trên điện thoại thông minh, tạm thời tắt bluetooth của điện thoại
-
-3. Xác định đia chỉ MAC của module BMS JK
-
-- Vào địa chỉ ``http://<solarbox IP>:6052``
-
-- Chọn logs:
-
-![](pic/bms_findmac.png)
-
-- Xác định được địa chỉ MAC của BMS:
-
-![](pic/mac_bms.png)
-
-4. Nạp lại chương trình cho module theo dõi pin với địa chỉ MAC của bạn
-
-- Chọn edit bên phần nạp chương trình
-
-![](pic/edit_programing.png)
-
-- Thay đổi địa chỉ mac ở dòng số 5
-
-![](pic/mac_edit.png)
-
-- Chọn install và chờ khoảng 10p để nạp lại chương trình
-
-![](pic/bms_install.png)
--->
 # Bonus: Hướng dẫn tạo 1 SolarBox cho riêng bạn
 
 1. Cài đặt hassio
-Đang cập nhật .... 
+
+- Xác định chip của tv box của bạn
+1. Cài đặt hassio
+
+- Xác định chip của tv box của bạn
+- Tải image tương ứng với model tvbox của bạn [tại đây](https://github.com/ophub/amlogic-s9xxx-armbian/releases?page=1)
+- Cài đặt hassio như hướng dẫn [tại đây](https://www.youtube.com/watch?v=bb8F20rgEJ4)
