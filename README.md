@@ -19,24 +19,28 @@ Với SolarBox bạn có thể theo dõi song song nhiều biến tần của nh
 ## 3. SolarBox dùng để theo dõi Pin không giao tiếp
 Với SolarBox bạn có thể theo dõi song song nhiều Pin lithium của nhiều hãng khác nhau trên cùng một ứng dụng.
 ![Battery Monitor](pic/battMonior.jpg)
-## 4. SolarBox dùng để tạo thông báo
+
+## 4. Solarbox có thể kết nối từ bất kì đâu
+Solarbox hỗ trợ người dùng theo dõi biến tần và bms từ bất kì nơi nào nếu có kết nối internet (wifi công cộng, 4g ...)
+
+## 5. SolarBox dùng để tạo thông báo
 Với Solarbox có thể dùng để tạo thông báo, ví dụ: 
 - Thông báo khi mất điện.
 - Thông báo khi pin đầy.
 - Thông báo khi pin sắp cạn.
 - ...
 
-## 5. SolarBox dùng để thực thi task tự động
+## 6. SolarBox dùng để thực thi task tự động
 Với Solarbox có thể dùng để thực thi task tự động, ví dụ:
 - Tự động mở tải khi PV dư mà pin đầy
 - Tự động ngưng xả khi pin còn quá thấp và còn điện lưới.
 - Tự động thay đổi giới hạn dòng xả của pin. VD: ngày xả 40A tối xả 60A
 
-## 6. SolarBox dùng để theo dõi chỉ số điện từ server EVN
+## 7. SolarBox dùng để theo dõi chỉ số điện từ server EVN
 Với Solarbox có thể dùng để theo dõi chỉ số địen từ EVN server.
 ![EVN Monitor](pic/evn_monitor.jpg)
 
-## 7. SolarBox dùng để kết nối các thiết bị nhà thông minh
+## 8. SolarBox dùng để kết nối các thiết bị nhà thông minh
 Đang cập nhật .... 
 
 # II. Nguyên Lý Hoạt Động
