@@ -3,8 +3,8 @@
 ## 1. Giới thiệu
 SolarBox thật ra là tvbox được mod lại để chay server [homeassitant](https://www.home-assistant.io/) để đạt giá thành rẻ
 
-- Nếu nhu cầu chỉ theo dõi biến tần ~500K
-- Theo dõi biến tần + Pin lithium không giao tiếp ~600K
+- Nếu nhu cầu chỉ theo dõi biến tần (lux,..) ~500K
+- Theo dõi biến tần + Pin lithium không giao tiếp (Jk) ~600K
 <!--
 Demo: https://demo-solar.xuantran.uk
 user: demo
