@@ -61,7 +61,7 @@ Với Solarbox có thể dùng để theo dõi chỉ số địen từ EVN serve
 1. Cài đặt hassio
 
 - Xác định chip của tv box của bạn
-- Tải image tương ứng với model tvbox của bạn [tại đây](https://github.com/ophub/amlogic-s9xxx-armbian/releases?page=1)
+- Tải image tương ứng với model tvbox của bạn [tại đây](https://github.com/ophub/amlogic-s9xxx-armbian/releases/tag/Armbian_HassIoSupervisor_bookworm_save_2024.09)
 - Cài đặt hassio như hướng dẫn [tại đây](https://www.youtube.com/watch?v=bb8F20rgEJ4)
 
 2. Cài đặt addon lux
