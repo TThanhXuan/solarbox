@@ -60,7 +60,7 @@ Với Solarbox có thể dùng để theo dõi chỉ số địen từ EVN serve
 Đang cập nhật hình ảnh .... 
 # Bonus: Hướng dẫn tạo 1 SolarBox cho riêng bạn
 
-1. Cài đặt hassio
+## 1. Cài đặt hassio
 
 - Xác định chip của tv box của bạn
 - Tải image tương ứng với model tvbox của bạn [tại đây](https://github.com/ophub/amlogic-s9xxx-armbian/releases/tag/Armbian_HassIoSupervisor_bookworm_save_2024.09)
@@ -71,13 +71,13 @@ Với Solarbox có thể dùng để theo dõi chỉ số địen từ EVN serve
 
 **Lưu ý:** không phải TVbox nào cũng được support, không khuyến khích mọi người mua tvbox mới để cài. Nên xem trước tvbox của mình có được hỗ trợ không [tại đây](https://github.com/ophub/amlogic-s9xxx-armbian/releases/tag/Armbian_HassIoSupervisor_bookworm_save_2024.09)
 
-2. Cài đặt addon lux
+## 2. Cài đặt addon lux
 - Đang được cập nhật nhưng mọi người cũng có thể nhờ những pro trong nhóm
 
-3. Cài đặt giao tiếp với Pin Lithium không giao tiếp
+## 3. Cài đặt giao tiếp với Pin Lithium không giao tiếp
 - Đang được cập nhật ....
 
-4. Cài đặt để truy cập từ xa
+## 4. Cài đặt để truy cập từ xa
 - Đang được cập nhật ....
 
 <!--
