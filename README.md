@@ -67,11 +67,18 @@ Với Solarbox có thể dùng để theo dõi chỉ số địen từ EVN serve
 - Tạo SD card hoặc usb boot với [Etcher](https://etcher.balena.io/) hoặc [win32diskimager](https://sourceforge.net/projects/win32diskimager/)
 - Cắm sd card hoặc usb boot vào tvbox
 - TVbox vào hassio bằng cách nhấn giữ nút reset (thường nằm ở cổng av) và cấp nguồn.
+- Chờ khoảng 20p và kết nối đến: `http:\\<IP của box>:8123`
 
 **Lưu ý:** không phải TVbox nào cũng được support, không khuyến khích mọi người mua tvbox mới để cài. Nên xem trước tvbox của mình có được hỗ trợ không [tại đây](https://github.com/ophub/amlogic-s9xxx-armbian/releases/tag/Armbian_HassIoSupervisor_bookworm_save_2024.09)
 
 2. Cài đặt addon lux
 - Đang được cập nhật nhưng mọi người cũng có thể nhờ những pro trong nhóm
+
+3. Cài đặt giao tiếp với Pin Lithium không giao tiếp
+- Đang được cập nhật ....
+
+4. Cài đặt để truy cập từ xa
+- Đang được cập nhật ....
 
 <!--
 3. Nhóm hỗ trợ
