@@ -64,16 +64,17 @@ Với Solarbox có thể dùng để theo dõi chỉ số địen từ EVN serve
 
 - Xác định chip của tv box của bạn
 - Tải image tương ứng với model tvbox của bạn [tại đây](https://github.com/ophub/amlogic-s9xxx-armbian/releases/tag/Armbian_HassIoSupervisor_bookworm_save_2024.09)
-- Cài đặt hassio như hướng dẫn [tại đây](https://www.youtube.com/watch?v=bb8F20rgEJ4)
+- Tạo SD card hoặc usb boot với [Etcher](https://etcher.balena.io/) hoặc [win32diskimager](https://sourceforge.net/projects/win32diskimager/)
+- Cắm sd card hoặc usb boot vào tvbox
+- TVbox vào hassio bằng cách nhấn giữ nút reset (thường nằm ở cổng av) và cấp nguồn.
 
-Video đang được cập nhật ...
+**Lưu ý:** không phải TVbox nào cũng được support, không khuyến khích mọi người mua tvbox mới để cài. Nên xem trước tvbox của mình có được hỗ trợ không [tại đây](https://github.com/ophub/amlogic-s9xxx-armbian/releases/tag/Armbian_HassIoSupervisor_bookworm_save_2024.09)
 
 2. Cài đặt addon lux
+- Đang được cập nhật nhưng mọi người cũng có thể nhờ những pro trong nhóm
 
-- sử dụng lxp-bridge [tại đây](https://github.com/celsworth/lxp-bridge)
-
-Video đang được cập nhật ...
-
+<!--
 3. Nhóm hỗ trợ
 https://web.facebook.com/groups/535518005787356
+-->
 
