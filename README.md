@@ -10,6 +10,7 @@ Demo: https://demo-solar.xuantran.uk
 user: demo
 password: demo
 -->
+- Vào nhóm để hỗ trợ và chia sẻ kinh nghiệm: https://web.facebook.com/groups/535518005787356
 
 ## 2. SolarBox dùng để theo dõi biến tần
 Với SolarBox bạn có thể theo dõi song song nhiều biến tần của nhiều hãng khác nhau trên cùng một ứng dụng không phụ thuộc vào server của hãng, thời gian cập nhật nhanh.
@@ -68,8 +69,7 @@ Với Solarbox có thể dùng để theo dõi chỉ số địen từ EVN serve
 - Cắm sd card hoặc usb boot vào tvbox
 - TVbox vào hassio bằng cách nhấn giữ nút reset (thường nằm ở cổng av) và cấp nguồn.
 - Chờ khoảng 20p và kết nối đến: `http:\\<IP của box>:8123`
-
-**Lưu ý:** không phải TVbox nào cũng được support, không khuyến khích mọi người mua tvbox mới để cài. Nên xem trước tvbox của mình có được hỗ trợ không [tại đây](https://github.com/ophub/amlogic-s9xxx-armbian/releases/tag/Armbian_HassIoSupervisor_bookworm_save_2024.09)
+- [Video hướng dẫn tại đây](https://web.facebook.com/100002013474771/videos/583776517424012/)
 
 ## 2. Cài đặt addon lux
 - Đang được cập nhật nhưng mọi người cũng có thể nhờ những pro trong nhóm
