@@ -75,7 +75,12 @@ Với Solarbox có thể dùng để theo dõi chỉ số địen từ EVN serve
 - Đang được cập nhật nhưng mọi người cũng có thể nhờ những pro trong nhóm
 
 ## 3. Cài đặt giao tiếp với Pin Lithium không giao tiếp
-- Đang được cập nhật ....
+
+### 3.1 Batmon với box có bluetooth
+
+- [Video hướng dẫn tại đây](https://web.facebook.com/100002013474771/videos/1552773309450753/)
+
+### 3.2 Batmon với box không có bluetooth
 
 ## 4. Cài đặt để truy cập từ xa
 - Đang được cập nhật ....
