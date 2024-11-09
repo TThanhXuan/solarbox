@@ -3,8 +3,8 @@
 ## 1. Giới thiệu
 SolarBox thật ra là tvbox được mod lại để chay server [homeassitant](https://www.home-assistant.io/) để đạt giá thành rẻ
 
-- box ram 1gb rom 8gb 400k
-- box ram 2gb rom 16gb 600k
+- box ram 1gb rom 8gb 400k (có sẵn tên miền truy cập từ xa)
+- box ram 2gb rom 16gb 600k (có sẵn tên miền truy cập từ xa)
 - theo dõi pin +100k
 - Vào nhóm để hỗ trợ và chia sẻ kinh nghiệm: https://web.facebook.com/groups/535518005787356
 
