@@ -69,7 +69,7 @@ Với Solarbox có thể dùng để theo dõi chỉ số địen từ EVN serve
 - Cắm sd card hoặc usb boot vào tvbox
 - TVbox vào hassio bằng cách nhấn giữ nút reset (thường nằm ở cổng av) và cấp nguồn.
 - Chờ khoảng 20p và kết nối đến: `http:\\<IP của box>:8123`
-- [Video hướng dẫn tại đây](https://web.facebook.com/100002013474771/videos/583776517424012/)
+- [Video hướng dẫn tại đây](https://web.facebook.com/groups/535518005787356)
 
 ## 2. Cài đặt addon lux
 - Đang được cập nhật nhưng mọi người cũng có thể nhờ những pro trong nhóm
@@ -77,8 +77,8 @@ Với Solarbox có thể dùng để theo dõi chỉ số địen từ EVN serve
 ## 3. Cài đặt giao tiếp với Pin Lithium không giao tiếp
 
 ### 3.1 Batmon với box có bluetooth
-
-- [Video hướng dẫn tại đây](https://web.facebook.com/100002013474771/videos/1552773309450753/)
+- Link den github cua tac gia [batmon-ha](https://github.com/fl4p/batmon-ha)
+- [Video hướng dẫn tại đây](https://web.facebook.com/groups/535518005787356)
 
 ### 3.2 Batmon với box không có bluetooth
 
