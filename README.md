@@ -3,13 +3,9 @@
 ## 1. Giới thiệu
 SolarBox thật ra là tvbox được mod lại để chay server [homeassitant](https://www.home-assistant.io/) để đạt giá thành rẻ
 
-- Nếu nhu cầu chỉ theo dõi biến tần (lux,..) 
-- Theo dõi biến tần + Pin lithium không giao tiếp (Jk) 
-<!--
-Demo: https://demo-solar.xuantran.uk
-user: demo
-password: demo
--->
+- box ram 1gb rom 8gb 400k (có sẵn tên miền truy cập từ xa)
+- box ram 2gb rom 16gb 600k (có sẵn tên miền truy cập từ xa)
+- theo dõi pin +100k
 - Vào nhóm để hỗ trợ và chia sẻ kinh nghiệm: https://web.facebook.com/groups/535518005787356
 
 ## 2. SolarBox dùng để theo dõi biến tần
@@ -80,7 +76,7 @@ Với Solarbox có thể dùng để theo dõi chỉ số địen từ EVN serve
 - Link den github cua tac gia [batmon-ha](https://github.com/fl4p/batmon-ha)
 - [Video hướng dẫn tại đây](https://web.facebook.com/groups/535518005787356)
 
-### 3.2 Batmon với box không có bluetooth
+### 3.2 theo dõi pin với box không có bluetooth
 
 ## 4. Cài đặt để truy cập từ xa
 - Đang được cập nhật ....
