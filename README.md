@@ -57,7 +57,7 @@ Với Solarbox có thể dùng để theo dõi chỉ số địen từ EVN serve
 # Bonus: Hướng dẫn tạo 1 SolarBox cho riêng bạn
 
 ## 1. Cài đặt hassio
-
+** Không khuyến khích mua tvbox mới để cài do có thể chip mới chưa được hỗ trợ **
 - Xác định chip của tv box của bạn
 - Tải image tương ứng với model tvbox của bạn [tại đây](https://github.com/ophub/amlogic-s9xxx-armbian/releases/tag/Armbian_HassIoSupervisor_bookworm_save_2024.09)
 - Tạo SD card hoặc usb boot với [Etcher](https://etcher.balena.io/) hoặc [win32diskimager](https://sourceforge.net/projects/win32diskimager/)
