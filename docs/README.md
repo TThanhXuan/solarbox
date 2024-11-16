@@ -1,6 +1,6 @@
 # Hướng dẫn này dành cho các bạn sử dụng solarbox bên mình setup sẵn
 ## 1. Chuẩn bị dây mạng từ router đến PIN
-Do box sử dụng giao tiếp bluetooth với Pin nên cần đặt gần PIN, do vậy cần chuẩn bị dây mạng từ router đến PIN. Nếu bạn không mua được dây mạng bên mình có hỗ trợ (4k/m).
+Do box sử dụng giao tiếp bluetooth với Pin nên cần đặt gần PIN, do vậy cần chuẩn bị dây mạng từ router đến PIN. Nếu bạn không mua được dây mạng bên mình có hỗ trợ (3k/m).
 ## 2. Setup wifi biến tần
 - Cài đặt Network Analyzer cho [Ios](https://itunes.apple.com/us/app/network-analyzer-wifi-scanner-speed-test-tools/id557405467?mt=8) hay [android](https://play.google.com/store/apps/details?id=net.techet.netanalyzer.an)
 - Xác định địa chỉ IP của module wifi bằng cách scan bằng ứng dụng Network Analyzer (module wifi có tên mico)
