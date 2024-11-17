@@ -66,7 +66,7 @@ Với Solarbox có thể dùng để theo dõi chỉ số địen từ EVN serve
 - [Video hướng dẫn tại đây](https://web.facebook.com/groups/535518005787356)
 
 ## 2. Cài đặt addon lux
-- sẽ được cập nhật vào cuối tuần
+- sẽ được cập nhật vào cuối tuần (mình phải dời lại ngày 24.11.2024 do bận việc đột xuất)
 
 ## 3. Cài đặt giao tiếp với Pin Lithium không giao tiếp
 
