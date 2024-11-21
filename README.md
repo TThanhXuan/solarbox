@@ -95,7 +95,7 @@ Sau khi datalogger khởi động lại (chỉ mất vài giây và không ảnh
 
 ![HA Sensors](https://user-images.githubusercontent.com/64648444/169526605-0f667815-87dc-4ab7-86f5-dbffe85ff765.png)
 
-[Video [SolarBox] Kết nối với biến tần](https://www.youtube.com/watch?v=g12Ak6pNzmc)
+<!-- [Video [SolarBox] Kết nối với biến tần](https://www.youtube.com/watch?v=g12Ak6pNzmc) -->
 
 ## 3. Cài đặt giao tiếp với Pin Lithium không giao tiếp
 
