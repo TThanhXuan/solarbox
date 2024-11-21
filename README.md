@@ -4,7 +4,12 @@
 SolarBox thật ra là tvbox được mod lại để chay server [homeassitant](https://www.home-assistant.io/) để đạt giá thành rẻ
 
 - Vào nhóm để hỗ trợ và chia sẻ kinh nghiệm: https://web.facebook.com/groups/535518005787356
-- Mình có nhận setup box hoàn chỉnh giá từ 400k đến 800k (tvbox, pi ..) tùy theo nhu cầu. Bản thương mại sẽ được truy cập từ xa có sẵn tên miền và chứng chỉ https, được cập nhật tính năng mới nhanh nhất
+- Mình có nhận setup box hoàn chỉnh giá từ 400k đến 800k (tvbox, pi ..) tùy theo nhu cầu. 
+- Bản thương mại sẽ có thêm những tính năng:
++ Truy cập từ xa có sẵn tên miền và chứng chỉ https
++ Cài đặt và nâng cấp từ xa, phù hợp cho những bạn không có thời gian.
++ Cài đặt để không spam server của lux.
++ Được cập nhật tính năng mới nhanh nhất
 
 ## 2. SolarBox dùng để theo dõi biến tần
 Với SolarBox bạn có thể theo dõi song song nhiều biến tần của nhiều hãng khác nhau trên cùng một ứng dụng không phụ thuộc vào server của hãng, thời gian cập nhật nhanh.
