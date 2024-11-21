@@ -5,6 +5,7 @@ SolarBox thật ra là tvbox được mod lại để chay server [homeassitant]
 
 - Vào nhóm để hỗ trợ và chia sẻ kinh nghiệm: https://web.facebook.com/groups/535518005787356
 - Mình có nhận setup box hoàn chỉnh giá từ 400k đến 800k (tvbox, pi ..) tùy theo nhu cầu. 
+
 **Bản thương mại sẽ có thêm những tính năng**
 + Truy cập từ xa có sẵn tên miền và chứng chỉ https
 + Cài đặt và nâng cấp từ xa, phù hợp cho những bạn không có thời gian.
@@ -61,7 +62,7 @@ Với Solarbox có thể dùng để theo dõi chỉ số địen từ EVN serve
 # Bonus: Hướng dẫn tạo 1 SolarBox cho riêng bạn
 
 ## 1. Cài đặt hassio
-** Không khuyến khích mua tvbox mới để cài do có thể chip mới chưa được hỗ trợ **
+**Không khuyến khích mua tvbox mới để cài do có thể chip mới chưa được hỗ trợ**
 - Xác định chip của tv box của bạn
 - Tải image tương ứng với model tvbox của bạn [tại đây](https://github.com/ophub/amlogic-s9xxx-armbian/releases/tag/Armbian_HassIoSupervisor_bookworm_save_2024.09)
 - Tạo SD card hoặc usb boot với [Etcher](https://etcher.balena.io/) hoặc [win32diskimager](https://sourceforge.net/projects/win32diskimager/)
@@ -73,6 +74,10 @@ Với Solarbox có thể dùng để theo dõi chỉ số địen từ EVN serve
 ## 2. Cài đặt addon lux
 
 ### a Cài đặt addon
+Gửi yêu cầu cho tác giả để được truy cập repo của addon
+
+Copy addone đến thư mục /usr/share/hassio/homeassistant/custom_components/
+
 scp -r /duong dan den/custom_components/luxpower_proxy root@<ip của box>://usr/share/hassio/homeassistant/custom_components/
 
 ### b. Thiết lập biến tần
