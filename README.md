@@ -7,9 +7,9 @@ SolarBox thật ra là tvbox được mod lại để chay server [homeassitant]
 - Mình có nhận setup box hoàn chỉnh giá từ 400k đến 800k (tvbox, pi ..) tùy theo nhu cầu. 
 
 **Bản thương mại sẽ có thêm những tính năng**
-+ Truy cập từ xa có sẵn tên miền và chứng chỉ https
 + Cài đặt và nâng cấp từ xa, phù hợp cho những bạn không có thời gian.
-+ Cài đặt để không spam server của lux.
++ Sử dụng addon riêng để không spam server của lux.
++ Truy cập từ xa có sẵn tên miền và chứng chỉ https
 + Được cập nhật tính năng mới nhanh nhất
 
 ## 2. SolarBox dùng để theo dõi biến tần
@@ -74,11 +74,11 @@ Với Solarbox có thể dùng để theo dõi chỉ số địen từ EVN serve
 ## 2. Cài đặt addon lux
 
 ### a Cài đặt addon
-Gửi yêu cầu cho tác giả để được truy cập repo của addon
+Gửi yêu cầu cho tác giả để được truy cập repo của addon [tại đây](https://forms.office.com/r/xFEPTa9P6X)
 
-Copy addone đến thư mục /usr/share/hassio/homeassistant/custom_components/
+Copy addon đến thư mục /usr/share/hassio/homeassistant/custom_components/
 
-scp -r /duong dan den/custom_components/luxpower_proxy root@<ip của box>://usr/share/hassio/homeassistant/custom_components/
+<!-- scp -r /duong dan den/custom_components/luxpower_proxy root@<ip của box>://usr/share/hassio/homeassistant/custom_components/ -->
 
 ### b. Thiết lập biến tần
 
