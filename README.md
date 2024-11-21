@@ -66,7 +66,36 @@ Với Solarbox có thể dùng để theo dõi chỉ số địen từ EVN serve
 - [Video hướng dẫn tại đây](https://web.facebook.com/groups/535518005787356)
 
 ## 2. Cài đặt addon lux
-- sẽ được cập nhật vào cuối tuần (mình phải dời lại ngày 24.11.2024 do bận việc đột xuất)
+### a. Thiết lập biến tần
+
+Để tránh các vấn đề phát sinh, bạn nên đảm bảo rằng Biến tần của bạn có địa chỉ IP tĩnh hoặc được đặt DHCP Reservation từ router của bạn. Điều này sẽ đảm bảo rằng địa chỉ IP của nó sẽ không thay đổi khi khởi động lại.
+
+Chúng ta cần cấu hình nó để mở một cổng khác mà chúng ta có thể giao tiếp. Mở trình duyệt web đến IP của datalogger của bạn (có thể phải kiểm tra máy chủ DHCP để tìm nó) và đăng nhập với tên người dùng/mật khẩu admin/admin. Nhấp vào English ở góc trên bên phải
+
+Bạn sẽ thấy:
+
+![](pic/lux_run_state.png)
+Nhấp vào Network Setting trong menu. Bạn sẽ thấy hai biểu mẫu, biểu mẫu trên cùng được điền với IP của LuxPower ở Trung Quốc - biểu mẫu thứ hai chúng ta có thể sử dụng. Cấu hình nó để trông giống như bên dưới và lưu lại:
+
+![](pic/lux_network_setting.png)
+
+Sau khi datalogger khởi động lại (chỉ mất vài giây và không ảnh hưởng đến hoạt động chính của biến tần, nó sẽ tiếp tục hoạt động bình thường), cổng 8000 trên IP của biến tần của bạn sẽ có thể truy cập được từ SolarBox. 
+
+### b. Thiết lập kết nối
+1. Settings > Devices and Services > Add Integration trong Home Assistant.
+2. Search for "LuxPower Inverter".
+
+![Integration Setup](https://user-images.githubusercontent.com/64648444/169526481-d261df8b-ecaa-48c4-a6df-f7abae382316.png)
+
+3. Điền IP, Cổng (8000), số serial của dongle và số serial của biến tần (có sẵn trên trang web Lux tại server.luxpowertek.com).
+
+![Integration Details](https://user-images.githubusercontent.com/64648444/169526428-a508e905-19ef-45e5-ab2c-185b454489e3.png)
+
+4. Sau khi thêm tích hợp, bạn sẽ thấy một số cảm biến trong Home Assistant.
+
+![HA Sensors](https://user-images.githubusercontent.com/64648444/169526605-0f667815-87dc-4ab7-86f5-dbffe85ff765.png)
+
+[Video [SolarBox] Kết nối với biến tần](https://www.youtube.com/watch?v=g12Ak6pNzmc)
 
 ## 3. Cài đặt giao tiếp với Pin Lithium không giao tiếp
 
