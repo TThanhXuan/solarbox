@@ -66,7 +66,11 @@ Với Solarbox có thể dùng để theo dõi chỉ số địen từ EVN serve
 - [Video hướng dẫn tại đây](https://web.facebook.com/groups/535518005787356)
 
 ## 2. Cài đặt addon lux
-### a. Thiết lập biến tần
+
+### a Cài đặt addon
+scp -r /duong dan den/custom_components/luxpower_proxy root@<ip của box>://usr/share/hassio/homeassistant/custom_components/
+
+### b. Thiết lập biến tần
 
 Để tránh các vấn đề phát sinh, bạn nên đảm bảo rằng Biến tần của bạn có địa chỉ IP tĩnh hoặc được đặt DHCP Reservation từ router của bạn. Điều này sẽ đảm bảo rằng địa chỉ IP của nó sẽ không thay đổi khi khởi động lại.
 
@@ -81,7 +85,7 @@ Nhấp vào Network Setting trong menu. Bạn sẽ thấy hai biểu mẫu, bi�
 
 Sau khi datalogger khởi động lại (chỉ mất vài giây và không ảnh hưởng đến hoạt động chính của biến tần, nó sẽ tiếp tục hoạt động bình thường), cổng 8000 trên IP của biến tần của bạn sẽ có thể truy cập được từ SolarBox. 
 
-### b. Thiết lập kết nối
+### c. Thiết lập kết nối
 1. Settings > Devices and Services > Add Integration trong Home Assistant.
 2. Search for "LuxPower Inverter".
 
