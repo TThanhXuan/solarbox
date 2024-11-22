@@ -16,7 +16,7 @@ Do box sử dụng giao tiếp bluetooth với Pin nên cần đặt gần PIN, 
 - Cài đặt ứng dụng cho [Ios](https://apps.apple.com/app/home-assistant/id1099568401?itsct=apps_box_badge&itscg=30200) hoặc [Android](https://play.google.com/store/apps/details?id=io.homeassistant.companion.android&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1)
 - Đăng nhập với thông tin mình gửi. [Video hướng dẫn](https://youtube.com/shorts/DpIyl63lWtc?feature=share)
 - Ngắt kết nối giữa Pin và điện thoại của bạn
-- Inbox mình để cài đặt từ xa
+- Inbox mình để cài đặt từ xa (Mình sẽ cài đặt vào buổi tối)
 - Đổi mật khẩu sau khi mình cài đặt xong 
 <!--
 - Kết nối với biến tần. Mình có thể hổ trợ từ xa hoặc bạn có thể kết nối bằng[Video hướng dẫn](https://www.youtube.com/shorts/g12Ak6pNzmc)
