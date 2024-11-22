@@ -1,6 +1,6 @@
 # Hướng dẫn này dành cho các bạn sử dụng solarbox bên mình setup sẵn
 ## 1. Chuẩn bị dây mạng từ router đến PIN
-Do box sử dụng giao tiếp bluetooth với Pin nên cần đặt gần PIN, do vậy cần chuẩn bị dây mạng từ router đến PIN. Nếu bạn không mua được dây mạng bên mình có hỗ trợ (2k/m).
+Do box sử dụng giao tiếp bluetooth với Pin nên cần đặt gần PIN, do vậy cần chuẩn bị dây mạng từ router đến PIN. 
 
 **Lưu ý:** nên để box ngay cạnh Pin để kết nối được ổn định nhất
 
