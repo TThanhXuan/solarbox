@@ -1,2 +1,0 @@
-
-[![Blueprint](https://my.home-assistant.io/badges/blueprint_import.svg)](https://my.home-assistant.io/redirect/blueprint_import/?blueprint_url=https://github.com/TThanhXuan/SolarBox/blob/main/blueprints/automation/luxpower/refresh_interval.yaml)
