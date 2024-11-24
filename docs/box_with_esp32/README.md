@@ -4,7 +4,7 @@
 Do box sử dụng giao tiếp bluetooth với Pin nên cần đặt gần PIN, do vậy cần chuẩn bị dây mạng từ router đến PIN. 
 - Tên wifi và password **2.4** nhà bạn (module theo dõi pin sẽ kết nối vào wifi nhà bạn để truyền dữ liệu về hass nên mình cần thông tin này) **Lưu ý** module chỉ hoạt động với wifi 2.4Ghz
 - Địa chỉ MAC của BMS JK cần theo dõi bằng các phần mềm scan bluetooth trên điện thoại. ![Bluetooth_app](pic/appbluetooth.png)
-## 3. Đăng nhập vào ứng dụng homeassitant
+## 2. Đăng nhập vào ứng dụng homeassitant
 - Cài đặt ứng dụng cho [Ios](https://apps.apple.com/app/home-assistant/id1099568401?itsct=apps_box_badge&itscg=30200) hoặc [Android](https://play.google.com/store/apps/details?id=io.homeassistant.companion.android&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1)
 - Cắm nguồn và dây mạng cho box
 - Ngắt kết nối app BMS trên điện thoại thông minh
