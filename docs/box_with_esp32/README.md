@@ -1,7 +1,6 @@
 # Hướng dẫn này dành cho các bạn sử dụng solarbox bên mình setup sẵn
 ## 1. Gửi một số thông tin cho mình
-- Serial number (SN) của module wifi. Xem trên web hoặc có thể xem trực tiếp trên module wifi.
-Do box sử dụng giao tiếp bluetooth với Pin nên cần đặt gần PIN, do vậy cần chuẩn bị dây mạng từ router đến PIN. 
+- Serial number (SN) của module wifi. Xem trên web hoặc có thể xem trực tiếp trên module wifi. 
 - Tên wifi và password **2.4** nhà bạn (module theo dõi pin sẽ kết nối vào wifi nhà bạn để truyền dữ liệu về hass nên mình cần thông tin này) **Lưu ý** module chỉ hoạt động với wifi 2.4Ghz
 - Địa chỉ MAC của BMS JK cần theo dõi bằng các phần mềm scan bluetooth trên điện thoại. ![Bluetooth_app](pic/appbluetooth.png)
 ## 2. Đăng nhập vào ứng dụng homeassitant
