@@ -4,11 +4,11 @@
 SolarBox thật ra là tvbox được mod lại để chay server [homeassitant](https://www.home-assistant.io/) để đạt giá thành rẻ
 
 - Vào nhóm để hỗ trợ và chia sẻ kinh nghiệm: https://web.facebook.com/groups/535518005787356
-- Mình có nhận setup box hoàn chỉnh giá từ 400k đến 800k (tvbox, pi ..) tùy theo nhu cầu. 
+- Mình có nhận setup box hoàn chỉnh giá từ 400k đến 800k (tvbox, pi ..) tùy theo nhu cầu. [Bảng giá](https://github.com/TThanhXuan/SolarBox/tree/master/docs/sale)
 
 **Bản thương mại sẽ có thêm những tính năng**
 + Cài đặt và nâng cấp từ xa, phù hợp cho những bạn không có thời gian.
-+ Sử dụng addon riêng để không spam server của lux.
+<!-- + Sử dụng addon riêng để không spam server của lux. -->
 + Truy cập từ xa có sẵn tên miền và chứng chỉ https
 + Được cập nhật tính năng mới nhanh nhất
 
