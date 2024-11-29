@@ -9,6 +9,8 @@
 - Pi3: 800K
 
 **Đã cài đặt tất cả về chỉ cần cắm nguồn và dây mạng là sử dụng**
+
+
 **Bản thương mại sẽ có thêm những tính năng**
 + Cài đặt và nâng cấp từ xa, phù hợp cho những bạn không có thời gian.
 <!-- + Sử dụng addon riêng để không spam server của lux. -->
