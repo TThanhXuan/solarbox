@@ -8,8 +8,8 @@ blueprint:
       description: this is the serial starting DG...
       selector:
         device:
-          filter:
-            - integration: luxpowerdg
+          # filter:
+          #   - integration: luxpowerdg
     luxpower_refresh_time:
       name: Interval for the refreshing data
       description: Input the interval in seconds to refresh data.
