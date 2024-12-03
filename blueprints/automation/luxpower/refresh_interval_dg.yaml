@@ -44,7 +44,7 @@ trigger:
     seconds: !input luxpower_refresh_time
 
 action:
-  - service: luxpower.luxpower_refresh_registers
+  - service: luxpowerdg.luxpower_refresh_registers
     data:
       dongle: >-
         {{ device_attr(luxpower_device_var, "name") }}
