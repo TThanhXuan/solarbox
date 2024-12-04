@@ -8,9 +8,11 @@ SolarBox thật ra là tvbox được mod lại để chay server [homeassitant]
 
 **Bản thương mại sẽ có thêm những tính năng**
 + Cài đặt và nâng cấp từ xa, phù hợp cho những bạn không có thời gian.
++ Hỗ trợ BA và DG dongle
 <!-- + Sử dụng addon riêng để không spam server của lux. -->
 + Truy cập từ xa có sẵn tên miền và chứng chỉ https
 + Được cập nhật tính năng mới nhanh nhất
+
 
 ## 2. SolarBox dùng để theo dõi biến tần
 Với SolarBox bạn có thể theo dõi song song nhiều biến tần của nhiều hãng khác nhau trên cùng một ứng dụng không phụ thuộc vào server của hãng, thời gian cập nhật nhanh.
