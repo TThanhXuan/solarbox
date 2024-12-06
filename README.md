@@ -1,7 +1,7 @@
 # I. Giới thiệu SolarBox
 
 ## 1. Giới thiệu
-SolarBox thật ra là tvbox được mod lại để chay server [homeassitant](https://www.home-assistant.io/) để đạt giá thành rẻ
+SolarBox là server [homeassitant](https://www.home-assistant.io/) dùng để theo dõi cài đặt các thiết bị năng lượng mặt trời
 
 - Vào nhóm để hỗ trợ và chia sẻ kinh nghiệm: https://web.facebook.com/groups/535518005787356
 - Mình có nhận setup box hoàn chỉnh giá từ 400k đến 800k (tvbox, pi ..) tùy theo nhu cầu. [Bảng giá](https://github.com/TThanhXuan/SolarBox/tree/master/docs/sale)
