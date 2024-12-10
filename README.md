@@ -11,8 +11,9 @@ SolarBox là server [homeassitant](https://www.home-assistant.io/) dùng để t
 + Cài đặt và nâng cấp từ xa, phù hợp cho những bạn không có thời gian.
 + Hỗ trợ BA và DG dongle
 <!-- + Sử dụng addon riêng để không spam server của lux. -->
-+ Truy cập từ xa có sẵn tên miền và chứng chỉ https
++ Truy cập từ xa có sẵn tên miền và chứng chỉ https không cần mở port
 + Được cập nhật tính năng mới nhanh nhất
+- Demo https://demo.xuantran.uk user: demo, pass: solarbox
 
 
 ## 2. SolarBox dùng để theo dõi biến tần
