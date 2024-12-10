@@ -5,6 +5,7 @@ SolarBox là server [homeassitant](https://www.home-assistant.io/) dùng để t
 
 - Vào nhóm để hỗ trợ và chia sẻ kinh nghiệm: https://web.facebook.com/groups/535518005787356
 - Mình có nhận setup box hoàn chỉnh giá từ 400k đến 800k (tvbox, pi ..) tùy theo nhu cầu. [Bảng giá](https://github.com/TThanhXuan/SolarBox/tree/master/docs/sale)
+- Demo ``https://demo.xuantran.uk`` user: demo, pass: solarbox
 
 **Bản thương mại sẽ có thêm những tính năng**
 + Cài đặt và nâng cấp từ xa, phù hợp cho những bạn không có thời gian.
