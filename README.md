@@ -40,6 +40,9 @@ Solarbox hỗ trợ người dùng theo dõi biến tần và bms từ bất kì
 Với Solarbox có thể dùng để tạo thông báo, ví dụ: 
 - Thông báo khi mất điện.
 - Thông báo khi pin đầy.
+<p float="left">
+  <img src="pic/384CEDBD-F6EA-44AB-92DF-6082F20FD2D7.JPG" width="90%" />
+</p>
 - Thông báo khi pin sắp cạn.
 - ...
 
