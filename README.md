@@ -41,7 +41,9 @@ Với Solarbox có thể dùng để tạo thông báo, ví dụ:
 - Thông báo khi mất điện.
 - Thông báo khi pin đầy.
 <p float="left">
-  <img src="pic/384CEDBD-F6EA-44AB-92DF-6082F20FD2D7.JPG" width="90%" />
+  <img src="pic/384CEDBD-F6EA-44AB-92DF-6082F20FD2D7.JPG" width="45%" />
+  <img src="pic/IMG_0516.PNG" width="45%" />
+
 </p>
 - Thông báo khi pin sắp cạn.
 - ...
