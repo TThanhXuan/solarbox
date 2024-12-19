@@ -18,14 +18,19 @@ SolarBox là server [homeassitant](https://www.home-assistant.io/) dùng để t
 ## 2. SolarBox dùng để theo dõi biến tần
 Với SolarBox bạn có thể theo dõi song song nhiều biến tần của nhiều hãng khác nhau trên cùng một ứng dụng không phụ thuộc vào server của hãng, thời gian cập nhật nhanh.
 <p float="left">
-  <img src="pic/InverterMonitor1.jpg" width="45%" />
-  <img src="pic/InverterMonitor2.jpg" width="45%" />
+  <img src="pic/IMG_0578.PNG" width="45%" />
+  <img src="pic/IMG_0577.PNG" width="45%" />
+</p>
+<p float="left">
+  <img src="pic/IMG_0576.PNG" width="45%" />
+  <img src="pic/IMG_0575.PNG" width="45%" />
 </p>
 
 ## 3. SolarBox dùng để theo dõi Pin không giao tiếp
 Với SolarBox bạn có thể theo dõi song song nhiều Pin lithium của nhiều hãng khác nhau trên cùng một ứng dụng.
-![Battery Monitor](pic/battMonior.jpg)
-
+<p float="left">
+  <img src="pic/IMG_0576.PNG" width="90%" />
+</p>
 ## 4. Solarbox có thể kết nối từ bất kì đâu
 Solarbox hỗ trợ người dùng theo dõi biến tần và bms từ bất kì nơi nào nếu có kết nối internet (wifi công cộng, 4g ...)
 
@@ -42,11 +47,8 @@ Với Solarbox có thể dùng để thực thi task tự động, ví dụ:
 - Tự động ngưng xả khi pin còn quá thấp và còn điện lưới.
 - Tự động thay đổi giới hạn dòng xả của pin. VD: ngày xả 40A tối xả 60A
 
-## 7. SolarBox dùng để theo dõi chỉ số điện từ server EVN
-Với Solarbox có thể dùng để theo dõi chỉ số địen từ EVN server.
-![EVN Monitor](pic/evn_monitor.jpg)
+## 7. SolarBox dùng để kết nối các thiết bị nhà thông minh
 
-## 8. SolarBox dùng để kết nối các thiết bị nhà thông minh
 Đang cập nhật .... 
 
 # II. Nguyên Lý Hoạt Động
