@@ -85,6 +85,8 @@ Với Solarbox có thể dùng để thực thi task tự động, ví dụ:
 
 ## 2. Cài đặt addon lux
 
+### Lưu ý: không nên cài đặt thời gian refresh data quá thấp để tránh quá tải server lux
+
 ### a Cài đặt addon
 Gửi yêu cầu cho tác giả để được truy cập repo của addon [tại đây](https://forms.office.com/r/xFEPTa9P6X)
 
