@@ -6,6 +6,8 @@
 - Box ram 1gb/ rom 8gb: 600K.
 - Box ram 2gb/ rom 16gb: 800K.
 
+## BG dongle + 200K
+
 **Đã cài đặt tất cả về chỉ cần cắm nguồn và dây mạng là sử dụng**
 
 
