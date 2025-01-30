@@ -16,6 +16,6 @@
 - Hỗ trợ Lux BA, DG, BG, BJ dongle, Deye
 - Hỗ trợ pin JK, Seplos
 - Sử dụng addon riêng để không spam server của lux (BAxxxxxx dongle).
-- Truy cập từ xa có sẵn tên miền và chứng chỉ https không cần mở port
+- Truy cập từ xa có sẵn tên miền và chứng chỉ https không cần mở port (sử dụng dịch vụ trả phí của cloudflare)
 - Được cập nhật tính năng mới nhanh nhất
 - Demo https://demo.xuantran.uk user: demo, pass: solarbox

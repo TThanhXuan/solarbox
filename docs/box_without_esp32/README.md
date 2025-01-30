@@ -3,7 +3,7 @@
 - Do box sử dụng giao tiếp bluetooth với Pin nên cần đặt gần PIN, do vậy cần chuẩn bị dây mạng từ router đến PIN. **Lưu ý:** nên để box ngay cạnh Pin (20cm) để kết nối được ổn định nhất
 
 - Serial number (SN) của module wifi. Xem trên web hoặc có thể xem trực tiếp trên module wifi. 
-
+- Cài đặt địa chỉ tĩnh cho biến tần của bạn trên router
 <!-- ## 2. Setup wifi biến tần -->
 <!-- - Cài đặt Network Analyzer cho [Ios](https://itunes.apple.com/us/app/network-analyzer-wifi-scanner-speed-test-tools/id557405467?mt=8) hay [android](https://play.google.com/store/apps/details?id=net.techet.netanalyzer.an)
 - Xác định địa chỉ IP của module wifi bằng cách scan bằng ứng dụng Network Analyzer (module wifi có tên mico) -->
@@ -26,4 +26,11 @@
 ## 3. Cài đặt kết nối với box trong mạng local
 [Xem tại đây](../common/internalUrl.md)
 
+## 4. Làm gì khi không kết nối được với box
+[Xem tại đây](../common/lostconnection.md)
 
+## 5. Làm gì khi mất kết nối đến biến tần
+[Xem tại đây](../common/lostconntectiontoinv.md)
+
+## 6. Kết nối thiết bị tuya với homeassistant
+[Xem tại đây](../common/Tuya.md)

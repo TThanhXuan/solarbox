@@ -2,6 +2,7 @@
 ## 1. Gửi một số thông tin cho mình
 - Serial number (SN) của module wifi. Xem trên web hoặc có thể xem trực tiếp trên module wifi. 
 - Tên wifi và password **2.4** nhà bạn (module theo dõi pin sẽ kết nối vào wifi nhà bạn để truyền dữ liệu về hass nên mình cần thông tin này) **Lưu ý** module chỉ hoạt động với wifi 2.4Ghz
+- Cài đặt địa chỉ tĩnh cho biến tần của bạn trên router
 <!-- - Địa chỉ MAC của BMS JK cần theo dõi bằng các phần mềm scan bluetooth trên điện thoại. ![Bluetooth_app](pic/appbluetooth.png) -->
 ## 2. Đăng nhập vào ứng dụng homeassitant
 - Cài đặt ứng dụng cho [Ios](https://apps.apple.com/app/home-assistant/id1099568401?itsct=apps_box_badge&itscg=30200) hoặc [Android](https://play.google.com/store/apps/details?id=io.homeassistant.companion.android&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1)
@@ -16,3 +17,12 @@
 - Nếu gặp vấn đề gì inbox mình hỗ trợ   -->
 ## 3. Cài đặt kết nối với box trong mạng local
 [Xem tại đây](../common/internalUrl.md)
+
+## 4. Làm gì khi không kết nối được với box
+[Xem tại đây](../common/lostconnection.md)
+
+## 5. Làm gì khi mất kết nối đến biến tần
+[Xem tại đây](../common/lostconntectiontoinv.md)
+
+## 6. Kết nối thiết bị tuya với homeassistant
+[Xem tại đây](../common/Tuya.md)
