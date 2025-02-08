@@ -4,33 +4,33 @@
 SolarBox là server [homeassitant](https://www.home-assistant.io/) dùng để theo dõi cài đặt các thiết bị năng lượng mặt trời
 
 - Vào nhóm để hỗ trợ và chia sẻ kinh nghiệm: https://web.facebook.com/groups/535518005787356
-- Mình có nhận setup box hoàn chỉnh giá từ 400k đến 800k (tvbox, pi ..) tùy theo nhu cầu. [Bảng giá](https://github.com/TThanhXuan/SolarBox/tree/master/docs/sale)
+- Mình có nhận setup box hoàn chỉnh giá từ 400k đến 800k (tvbox, pi ..) tùy theo nhu cầu. [Bảng giá](https://github.com/TThanhXuan/SolarBox/tree/master/docs/sale/README.md)
 - Demo https://demo.xuantran.uk user: demo, pass: solarbox
 
 **Bản thương mại sẽ có thêm những tính năng**
 - Cài đặt và nâng cấp từ xa, phù hợp cho những bạn không có thời gian.
-- Hỗ trợ Lux BA và DG dongle, Deye, Goodwe
+- Việt hóa gần như hoàn toàn
+- Hỗ trợ tất cả dongle của lux, Deye
 - Hỗ trợ pin JK, Seplos, Daly, JBD, CBT Power.
-- Sử dụng addon riêng để không spam server lux (BAxxxxxx dongle).
-- Truy cập từ xa có sẵn tên miền và chứng chỉ https không cần mở port
+- Sử dụng addon riêng để không spam server lux.
+- Truy cập từ xa có sẵn tên miền và chứng chỉ https **không cần mở port**
 - Demo https://demo.xuantran.uk user: demo, pass: solarbox
-
 
 ## 2. SolarBox dùng để theo dõi biến tần
 Với SolarBox bạn có thể theo dõi song song nhiều biến tần của nhiều hãng khác nhau trên cùng một ứng dụng không phụ thuộc vào server của hãng, thời gian cập nhật nhanh.
 <p float="left">
-  <img src="pic/IMG_0578.PNG" width="45%" />
-  <img src="pic/IMG_0577.PNG" width="45%" />
+  <img src="pic/IMG_1169.JPEG" width="45%" />
+  <img src="pic/IMG_1170.JPEG" width="45%" />
 </p>
 <p float="left">
-  <img src="pic/IMG_0576.PNG" width="45%" />
-  <img src="pic/IMG_0575.PNG" width="45%" />
+  <img src="pic/IMG_1171.JPEG" width="45%" />
+  <img src="pic/IMG_1172.JPEG" width="45%" />
 </p>
 
 ## 3. SolarBox dùng để theo dõi Pin không giao tiếp
 Với SolarBox bạn có thể theo dõi song song nhiều Pin lithium của nhiều hãng khác nhau trên cùng một ứng dụng.
 <p float="left">
-  <img src="pic/IMG_0576.PNG" width="90%" />
+  <img src="pic/IMG_1173.JPEG" width="90%" />
 </p>
 ## 4. Solarbox có thể kết nối từ bất kì đâu
 Solarbox hỗ trợ người dùng theo dõi biến tần và bms từ bất kì nơi nào nếu có kết nối internet (wifi công cộng, 4g ...)
@@ -135,6 +135,8 @@ Sau khi datalogger khởi động lại (chỉ mất vài giây và không ảnh
 ## 4. Cài đặt để truy cập từ xa
 - Đang được cập nhật ....
 
+## 5. Giao diện
+- Đang được cập nhật ....
 <!--
 3. Nhóm hỗ trợ
 https://web.facebook.com/groups/535518005787356
