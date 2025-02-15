@@ -24,5 +24,6 @@
 - Hỗ trợ pin JK, Seplos, Daly, JBD, CBT Power.
 - Sử dụng addon riêng để không spam server lux.
 - Bảo hành 3 tháng, 7 ngày đầu có thể đổi trả với bất kì lý do gì.
+- Miễn phí ship nếu chuyển khoản trước
 - Truy cập từ xa có sẵn tên miền và chứng chỉ https **không cần mở port**
 - Demo https://demo.xuantran.uk user: demo, pass: solarbox
