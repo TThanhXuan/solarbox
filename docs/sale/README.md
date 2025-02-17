@@ -1,13 +1,13 @@
 # Bảng giá box cài đặt sẵn
 ## 1. Box chỉ dùng theo dõi biến tần:
-- Box ram 1gb/ rom 8gb: 400K.
+- Box ram 1gb/ rom 8gb: 400K. (không hỗ trợ nữa)
 - Box ram 2gb/ rom 16gb: 600K. 
 - Box ram 2gb/ rom 64gb: 800K. 
 - Mini PC ram 4gb/ rom 32gb 1.500K
 
 **Note: Lux BG dongle +200K**
 ## 2. Box chỉ dùng theo dõi biến tần + Pin:
-- Box ram 1gb/ rom 8gb: 400K + 200K/2Pin
+- Box ram 1gb/ rom 8gb: 400K + 200K/2Pin. (không hỗ trợ nữa)
 - Box ram 2gb/ rom 16gb: 600K + 200K/2Pin
 - Box ram 2gb/ rom 64gb: 800K + 200K/2Pin
 - Mini PC ram 4gb/ rom 32gb 1.500K + 200K/2Pin
