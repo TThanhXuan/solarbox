@@ -17,7 +17,7 @@
 **Bản thương mại sẽ có thêm những tính năng**
 - Cài đặt và nâng cấp từ xa, phù hợp cho những bạn không có thời gian.
 - Việt hóa gần như hoàn toàn
-- Hỗ trợ tất cả dongle của lux, Deye
+- Hỗ lux, Deye (solarman)
 - Hỗ trợ pin JK, Seplos, Daly, JBD, CBT Power.
 - Thu lại 50% giá trị khi nâng cấp
 <!-- - Sử dụng addon riêng để không spam server lux. -->
