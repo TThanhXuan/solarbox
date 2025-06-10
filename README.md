@@ -4,7 +4,7 @@
 SolarBox là server [homeassitant](https://www.home-assistant.io/) dùng để theo dõi cài đặt các thiết bị năng lượng mặt trời
 
 - Vào nhóm để hỗ trợ và chia sẻ kinh nghiệm: https://web.facebook.com/groups/535518005787356
-- Mình có nhận setup box hoàn chỉnh tùy theo nhu cầu. [Bảng giá](https://github.com/TThanhXuan/SolarBox/tree/main/docs/sale/README.md)
+- Mình có nhận setup box hoàn chỉnh tùy theo nhu cầu. [Bảng giá](https://github.com/TThanhXuan/SolarBox/tree/main/docs/sale/README.md) Hiện tại mình không nhận setup nữa nha mọi người
 - Demo https://demo.xuantran.uk user: demo, pass: solarbox
 
 **Bản thương mại sẽ có thêm những tính năng**
