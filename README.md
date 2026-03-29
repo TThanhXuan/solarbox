@@ -4,17 +4,7 @@
 SolarBox là server [homeassitant](https://www.home-assistant.io/) dùng để theo dõi cài đặt các thiết bị năng lượng mặt trời
 
 - Vào nhóm để hỗ trợ và chia sẻ kinh nghiệm: https://web.facebook.com/groups/535518005787356
-- Mình có nhận setup box hoàn chỉnh tùy theo nhu cầu. [Bảng giá](https://github.com/TThanhXuan/SolarBox/tree/main/docs/sale/README.md) Hiện tại mình không nhận setup nữa nha mọi người
-- Demo https://demo.xuantran.uk user: demo, pass: solarbox
 
-**Bản thương mại sẽ có thêm những tính năng**
-- Cài đặt và nâng cấp từ xa, phù hợp cho những bạn không có thời gian.
-- Việt hóa gần như hoàn toàn
-- Hỗ trợ tất cả dongle của lux, Deye
-- Hỗ trợ pin JK, Seplos, Daly, JBD, CBT Power.
-- Sử dụng addon riêng để không spam server lux.
-- Truy cập từ xa có sẵn tên miền và chứng chỉ https **không cần mở port**
-- Demo https://demo.xuantran.uk user: demo, pass: solarbox
 
 ## 2. SolarBox dùng để theo dõi biến tần
 Với SolarBox bạn có thể theo dõi song song nhiều biến tần của nhiều hãng khác nhau trên cùng một ứng dụng không phụ thuộc vào server của hãng, thời gian cập nhật nhanh.
